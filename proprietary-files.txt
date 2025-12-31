@@ -1,5 +1,5 @@
-# All unpinned blobs are from G780FXXSNFYH1
-# Vendor security patch level 2025-07-01
+# All unpinned blobs are from G780FXXSOFYJ1
+# Vendor security patch level 2025-10-01
 
 # Audio
 vendor/lib/libSamsungPostProcessConvertor.so
